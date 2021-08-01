@@ -1,6 +1,6 @@
 # Credits
 
-This is my version of [JC] (https://github.com/jcbombardelli)'s project. Developed during [Gama Academy](https://www.gama.academy)'s "GIT" course to practice common Git commands, such as:
+This is my version of [JC](https://github.com/jcbombardelli)'s project. Developed during [Gama Academy](https://www.gama.academy)'s "GIT" course to practice common Git commands, such as:
 
 - git init
 - git add
@@ -15,3 +15,5 @@ This is my version of [JC] (https://github.com/jcbombardelli)'s project. Develop
 - git remote
 - git push
 - git clone
+- git pull
+- .gitignore
